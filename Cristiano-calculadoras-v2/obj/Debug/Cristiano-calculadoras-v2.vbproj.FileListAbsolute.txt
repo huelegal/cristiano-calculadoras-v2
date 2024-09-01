@@ -1,0 +1,11 @@
+C:\Users\PC\Desktop\Técnico\DS\projetos\Cristiano-calculadoras-v2\Cristiano-calculadoras-v2\bin\Debug\Cristiano-calculadoras-v2.exe.config
+C:\Users\PC\Desktop\Técnico\DS\projetos\Cristiano-calculadoras-v2\Cristiano-calculadoras-v2\bin\Debug\Cristiano-calculadoras-v2.exe
+C:\Users\PC\Desktop\Técnico\DS\projetos\Cristiano-calculadoras-v2\Cristiano-calculadoras-v2\bin\Debug\Cristiano-calculadoras-v2.pdb
+C:\Users\PC\Desktop\Técnico\DS\projetos\Cristiano-calculadoras-v2\Cristiano-calculadoras-v2\bin\Debug\Cristiano-calculadoras-v2.xml
+C:\Users\PC\Desktop\Técnico\DS\projetos\Cristiano-calculadoras-v2\Cristiano-calculadoras-v2\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\PC\Desktop\Técnico\DS\projetos\Cristiano-calculadoras-v2\Cristiano-calculadoras-v2\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\PC\Desktop\Técnico\DS\projetos\Cristiano-calculadoras-v2\Cristiano-calculadoras-v2\obj\Debug\Cristiano-calculadoras-v2.vbproj.GenerateResource.Cache
+C:\Users\PC\Desktop\Técnico\DS\projetos\Cristiano-calculadoras-v2\Cristiano-calculadoras-v2\obj\Debug\Cristiano-calculadoras-v2.exe
+C:\Users\PC\Desktop\Técnico\DS\projetos\Cristiano-calculadoras-v2\Cristiano-calculadoras-v2\obj\Debug\Cristiano-calculadoras-v2.xml
+C:\Users\PC\Desktop\Técnico\DS\projetos\Cristiano-calculadoras-v2\Cristiano-calculadoras-v2\obj\Debug\Cristiano-calculadoras-v2.pdb
+C:\Users\PC\Desktop\Técnico\DS\projetos\Cristiano-calculadoras-v2\Cristiano-calculadoras-v2\obj\Debug\WindowsApplication1.Form2.resources
